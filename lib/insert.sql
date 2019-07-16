@@ -100,7 +100,11 @@ INSERT INTO character_books (character_id, book_id)
 INSERT INTO character_books (character_id, book_id)
   VALUES (6, 6);
   
+INSERT INTO character_books (character_id, book_id)
+  VALUES (7, 6); 
   
+INSERT INTO character_books (character_id, book_id)
+  VALUES (8, 4);
   
   
   
