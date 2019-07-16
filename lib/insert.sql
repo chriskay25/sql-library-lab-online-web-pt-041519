@@ -48,6 +48,9 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
 
 INSERT INTO characters (name, motto, species, author_id, series_id)
   VALUES ("Troll", "Rawr", "troll", 2, 2);
+  
+INSERT INTO characters (name, motto, species, author_id, series_id)
+  VALUES ("Balrog", "Whip it good", "balrog", 2, 2);
 
 
 
