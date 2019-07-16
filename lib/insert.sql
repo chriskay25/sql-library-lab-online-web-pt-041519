@@ -61,6 +61,12 @@ INSERT INTO authors (name)
 INSERT INTO character_books (character_id, book_id)
   VALUES (1, 1);
 
+INSERT INTO character_books (character_id, book_id)
+  VALUES (1, 2);
+  
+INSERT INTO character_books (character_id, book_id)
+  VALUES (1, 1);
+
 
 
 
