@@ -57,6 +57,9 @@ INSERT INTO authors (name)
   
 INSERT INTO authors (name)
   VALUES ("Tolkien");
+  
+INSERT INTO character_books (character_id, book_id)
+  VALUES ()
 
 
 
