@@ -46,6 +46,9 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
 INSERT INTO characters (name, motto, species, author_id, series_id)
   VALUES ("Samwise", "I miss the Shire", "hobbit", 2, 2);
 
+INSERT INTO characters (name, motto, species, author_id, series_id)
+  VALUES ("Troll", "Rawr", "troll", 2, 2);
+
 
 
 
