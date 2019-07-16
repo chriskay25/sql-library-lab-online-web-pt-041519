@@ -95,7 +95,10 @@ INSERT INTO character_books (character_id, book_id)
   VALUES (6, 4);
   
 INSERT INTO character_books (character_id, book_id)
-  VALUES (1, 1);
+  VALUES (6, 5);
+  
+INSERT INTO character_books (character_id, book_id)
+  VALUES (6, 6);
   
   
   
