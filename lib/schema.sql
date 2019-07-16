@@ -11,7 +11,7 @@ CREATE TABLE series (
   title TEXT,
   author_id INTEGER);
   
-CREATE TABLE subgenre (
+CREATE TABLE subgenres (
   id INTEGER PRIMARY KEY,
   name TEXT);
   
