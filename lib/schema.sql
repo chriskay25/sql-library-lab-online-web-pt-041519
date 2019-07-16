@@ -10,7 +10,7 @@ CREATE TABLE subgenre (
   id INTEGER PRIMARY KEY,
   );
   
-CREATE TABLE series (
+CREATE TABLE authors (
   id INTEGER PRIMARY KEY,
   );
   
